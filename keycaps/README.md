@@ -1,4 +1,4 @@
-# fillet.gh
+# keycaps.gh
 
 This script generates a set of keycaps.
 
@@ -7,7 +7,6 @@ This script generates a set of keycaps.
 ## Parameters
 
 - Key base rectangles
-- Profile for each data branch
-- Profile data (`name,front_height,back_height`)
+- Profile for each key
 
-![fillet](./docs/keycaps_params.png)
+![Parameters](./docs/params.png)
